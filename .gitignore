@@ -2,4 +2,3 @@
 extensions/
 dist/
 .devcontainer/
-argv.json
